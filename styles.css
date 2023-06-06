@@ -32,10 +32,12 @@ hr{
   margin: 100px auto;
 }
 a{
-  color:  #11999E;
+  color:  #d5f5fd;
     font-family: 'Montserrat', sans-serif;
     margin: 10px 20px;
     text-decoration: none;
+    font-size: 1.1rem;
+
 }
 a:hover{
   color: #EAF6F6;
